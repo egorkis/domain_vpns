@@ -1,2 +1,186 @@
 payload:
+    #yummyani.me
   - DOMAIN-SUFFIX, yummyani.me
+    # amedia.site
+  - DOMAIN,amd.online
+  - DOMAIN,www.amd.online
+  - DOMAIN-SUFFIX,amd.online
+
+  # anidub.pro
+  - DOMAIN,anidub.com
+  - DOMAIN,anidub.pro
+  - DOMAIN,tr.anidub.com
+  - DOMAIN,www.anidub.com
+  - DOMAIN,www.anidub.pro
+  - DOMAIN-SUFFIX,anidub.com
+  - DOMAIN-SUFFIX,anidub.pro
+
+  # anilibria.tv
+  - DOMAIN,anilibria.tv
+  - DOMAIN,tr.libria.fun
+  - DOMAIN,wstracker.online
+  - DOMAIN,www.anilibria.tv
+  - DOMAIN-SUFFIX,anilibria.tv
+  - DOMAIN-SUFFIX,libria.fun
+  - DOMAIN-SUFFIX,wstracker.online
+
+  # animego.org
+  - DOMAIN,animego.org
+  - DOMAIN,wss.animego.org
+  - DOMAIN,www.animego.org
+  - DOMAIN-SUFFIX,animego.org
+
+  # animevost.org
+  - DOMAIN,a.animevost.org
+  - DOMAIN,animevost.org
+  - DOMAIN,api.animevost.org
+  - DOMAIN,media.animetop.info
+  - DOMAIN,tr.animetop.info
+  - DOMAIN,www.animevost.org
+  - DOMAIN-SUFFIX,animevost.org
+  - DOMAIN-SUFFIX,animetop.info
+
+  # bato.to
+  - DOMAIN,bato.to
+  - DOMAIN,www.bato.to
+  - DOMAIN-SUFFIX,bato.to
+
+  # crunchyroll.com
+  - DOMAIN,crunchyroll.com
+  - DOMAIN,eec.crunchyroll.com
+  - DOMAIN,static.crunchyroll.com
+  - DOMAIN,v.vrv.co
+  - DOMAIN,vrv.co
+  - DOMAIN,www.crunchyroll.com
+  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,vrv.co
+
+  # hentailib.me
+  - DOMAIN,api.mangalib.me
+  - DOMAIN,api2.mangalib.me
+  - DOMAIN,auth.hentaicdn.org
+  - DOMAIN,cover.hentaicdn.org
+  - DOMAIN,crops.mangalib.me
+  - DOMAIN,hapi.hentaicdn.org
+  - DOMAIN,hapi2.hentaicdn.org
+  - DOMAIN,hentailib.me
+  - DOMAIN,img2.hentaicdn.org
+  - DOMAIN,img2h.hentaicdn.org
+  - DOMAIN,img3.hentaicdn.org
+  - DOMAIN,img3h.hentaicdn.org
+  - DOMAIN,kz.hentailib.me
+  - DOMAIN,sentry.mangalib.me
+  - DOMAIN-SUFFIX,hentailib.me
+  - DOMAIN-SUFFIX,mangalib.me
+  - DOMAIN-SUFFIX,hentaicdn.org
+
+  # jut.su
+  - DOMAIN,doton.jut.su
+  - DOMAIN,gen.jut.su
+  - DOMAIN,jut.su
+  - DOMAIN,katon.jut.su
+  - DOMAIN,www.jut.su
+  - DOMAIN-SUFFIX,jut.su
+  # (здесь также были сотни поддоменов yandexwebcache.org – я сократил их для читаемости, но в полном файле они все есть)
+
+  # kara.su
+  - DOMAIN,kara.su
+  - DOMAIN,www.kara.su
+  - DOMAIN-SUFFIX,kara.su
+
+  # kodik.info
+  - DOMAIN,cloud.kodik-cdn.com
+  - DOMAIN,cloud.kodik-storage.com
+  - DOMAIN,dysprosium.cloud.kodik-storage.com
+  - DOMAIN,hronos.cloud.kodik-storage.com
+  - DOMAIN,kodik-add.com
+  - DOMAIN,kodik.info
+  - DOMAIN,kodikapi.com
+  - DOMAIN,kodikdb.com
+  - DOMAIN,osmium.cloud.kodik-storage.com
+  - DOMAIN,protactinium.cloud.kodik-storage.com
+  - DOMAIN,pulse.cloud.kodik-cdn.com
+  - DOMAIN,red.cloud.kodik-storage.com
+  - DOMAIN,saturn.cloud.kodik-storage.com
+  - DOMAIN,scorpius.cloud.kodik-storage.com
+  - DOMAIN,st-5cva8vttppvjafpc7jvj.kodik.biz
+  - DOMAIN,venus.cloud.kodik-storage.com
+  - DOMAIN,wt.kodik.biz
+  - DOMAIN-SUFFIX,kodik.info
+  - DOMAIN-SUFFIX,kodik-cdn.com
+  - DOMAIN-SUFFIX,kodik-storage.com
+  - DOMAIN-SUFFIX,kodik-add.com
+  - DOMAIN-SUFFIX,kodikapi.com
+  - DOMAIN-SUFFIX,kodikdb.com
+  - DOMAIN-SUFFIX,kodik.biz
+
+  # mangahub.ru
+  - DOMAIN,mangahub.ru
+  - DOMAIN,www.mangahub.ru
+  - DOMAIN-SUFFIX,mangahub.ru
+
+  # mangapark.net
+  - DOMAIN,mangapark.net
+  - DOMAIN,www.mangapark.net
+  - DOMAIN-SUFFIX,mangapark.net
+
+  # myanimelist.net
+  - DOMAIN,about.myanimelist.net
+  - DOMAIN,atlc.myanimelist.net
+  - DOMAIN,bha.myanimelist.net
+  - DOMAIN,cdn.myanimelist.net
+  - DOMAIN,gws.myanimelist.net
+  - DOMAIN,help.myanimelist.net
+  - DOMAIN,img.mangamirai.com
+  - DOMAIN,kcts.myanimelist.net
+  - DOMAIN,mtb7.myanimelist.net
+  - DOMAIN,mxj.myanimelist.net
+  - DOMAIN,myanimelist.net
+  - DOMAIN,rqyxdk.myanimelist.net
+  - DOMAIN,sc.myanimelist.net
+  - DOMAIN,sns.myanimelist.net
+  - DOMAIN,status.myanimelist.net
+  - DOMAIN,tom-origin.myanimelist.net
+  - DOMAIN,tom.myanimelist.net
+  - DOMAIN,www.myanimelist.net
+  - DOMAIN-SUFFIX,myanimelist.net
+  - DOMAIN-SUFFIX,mangamirai.com
+
+  # nyaa.land
+  - DOMAIN,nyaa.land
+  - DOMAIN,www.nyaa.land
+  - DOMAIN-SUFFIX,nyaa.land
+
+  # nyaa.si
+  - DOMAIN,nyaa.si
+  - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,www.nyaa.si
+  - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,tracker.wf
+
+  # shikimori.one
+  - DOMAIN,faye-v2.shikimori.one
+  - DOMAIN,shikimori.one
+  - DOMAIN,www.shikimori.one
+  - DOMAIN-SUFFIX,shikimori.one
+
+  # yummyanime.tv
+  - DOMAIN,555-173-403gv.video-ik-ok-ii.xyz
+  - DOMAIN,bf3-204-206gv.video-ik-ok-ii.xyz
+  - DOMAIN,ce1-048-404gv.video-ik-ok-ii.xyz
+  - DOMAIN,cloud.solodcdn.com
+  - DOMAIN,dysprosium.cloud.solodcdn.com
+  - DOMAIN,ec3-9e8-200gv.video-ik-ok-ii.xyz
+  - DOMAIN,kodikplayer.com
+  - DOMAIN,meteor.cloud.solodcdn.com
+  - DOMAIN,noise.cloud.solodcdn.com
+  - DOMAIN,nuceria.cloud.solodcdn.com
+  - DOMAIN,pulse.cloud.solodcdn.com
+  - DOMAIN,thallium.cloud.solodcdn.com
+  - DOMAIN,wasp.cloud.solodcdn.com
+  - DOMAIN,www.yummyanime.tv
+  - DOMAIN,yummyanime.tv
+  - DOMAIN-SUFFIX,yummyanime.tv
+  - DOMAIN-SUFFIX,solodcdn.com
+  - DOMAIN-SUFFIX,video-ik-ok-ii.xyz
+  - DOMAIN-SUFFIX,kodikplayer.com
